@@ -1,6 +1,6 @@
 # Barcode Generator
 
-A Salesfoce Lightning Web Component for generating barcodes using [JsBarcode](https://github.com/lindell/JsBarcode) library. It will create barcodes on the fly - it does not save them as an image or an attachment.
+A Salesforce Lightning Web Component for generating barcodes using [JsBarcode](https://github.com/lindell/JsBarcode) library. It will create barcodes on the fly - it does not save them as an image or an attachment.
 
 ![barcode example](barcode_screen_1.png)
 
