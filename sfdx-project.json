@@ -2,11 +2,11 @@
   "packageDirectories": [
     {
       "versionName": "ver 0.1",
-      "versionNumber": "0.1.0",
+      "versionNumber": "0.1.0.NEXT",
       "path": "force-app",
       "default": true,
       "package": "Barcode Generator",
-      "versionDescription": "First release"
+      "versionDescription": ""
     }
   ],
   "name": "BarcodeGenerator",
@@ -14,6 +14,7 @@
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "63.0",
   "packageAliases": {
-    "Barcode Generator": "0HoDp000000TNPAKA4"
+    "Barcode Generator": "0HoDp000000TNPAKA4",
+    "Barcode Generator@0.1.0-2": "04tDp000000VE4RIAW"
   }
 }
