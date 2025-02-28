@@ -1,0 +1,19 @@
+{
+  "packageDirectories": [
+    {
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0",
+      "path": "force-app",
+      "default": true,
+      "package": "Barcode Generator",
+      "versionDescription": "First release"
+    }
+  ],
+  "name": "BarcodeGenerator",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "63.0",
+  "packageAliases": {
+    "Barcode Generator": "0HoDp000000TNPAKA4"
+  }
+}
